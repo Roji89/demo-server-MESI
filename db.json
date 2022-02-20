@@ -1,0 +1,23 @@
+{
+  "profile": [
+    {
+      "id": 0,
+      "name": "roja"
+    },
+    {
+      "id": 1,
+      "name": "justin"
+    },
+    {
+      "id": 2,
+      "name": "anny"
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "name": "coffee",
+      "price": "20"
+    }
+  ]
+}
