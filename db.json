@@ -16,8 +16,35 @@
   "products": [
     {
       "id": 0,
-      "name": "coffee",
-      "price": "20"
+      "name": "starbucks",
+      "price": "20",
+      "description": "Types of Beans — Seattle's Best Coffee Post Alley Blend is a strong",
+      "image": "products/assets/images/1.jpg",
+      "seller": "fifi"
+    },
+    {
+      "id": 1,
+      "name": "Costa Coffee",
+      "price": "10",
+      "description": "blablabla",
+      "image": "products/assets/images/2.jpg",
+      "seller": "fifi"
+    },
+    {
+      "id": 2,
+      "name": "starbucks",
+      "price": "22",
+      "description": "blablabla",
+      "image": "products/assets/images/3.jpg",
+      "seller": "fifi"
+    },
+    {
+      "id": 2,
+      "name": "starbucks",
+      "price": "22",
+      "description": "blablabla",
+      "image": "products/assets/images/3.jpg",
+      "seller": "fifi"
     }
   ]
 }

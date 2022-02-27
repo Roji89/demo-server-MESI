@@ -1,0 +1,36 @@
+{
+  "profile": [
+    {
+      "id": 0,
+      "name": "roja"
+    },
+    {
+      "id": 1,
+      "name": "justin"
+    },
+    {
+      "id": 2,
+      "name": "anny"
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "name": "starbucks",
+      "price": "10",
+      "image": "/assets/images/1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "starbucks",
+      "price": "10",
+      "image": "/assets/images/2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "starbucks",
+      "price": "10",
+      "image": "/assets/images/3.jpg"
+    }
+  ]
+}
